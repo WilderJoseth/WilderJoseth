@@ -6,7 +6,12 @@ I am a system engineer interested in software development, data science and mach
 
 * [Notebooks](https://github.com/WilderJoseth/ml_notebooks)
 * [Docker deployments](https://github.com/WilderJoseth/ml_docker)
+* [Azure AI Services](https://github.com/WilderJoseth/azure_ai)
 
-## Azure
+## Data processing
 
-* [AI Services](https://github.com/WilderJoseth/azure_ai)
+* [Data processing](https://github.com/WilderJoseth/data_processing)
+
+## Reporting
+
+* [Data visualization](https://github.com/WilderJoseth/data_visualization)
