@@ -1,6 +1,10 @@
 # About me 🐱‍💻
 
-I am a system engineer interested in software development, data science and machine learning, who is always learning and publishing what I know.
+I’m a Data Engineer with experience building and optimizing enterprise data solutions using Microsoft technologies and Databricks.
+
+My core expertise includes SQL Server, ETL pipelines and Azure Synapse Analytics, with experience in on-premise to cloud migrations, performance optimization, and data modeling for analytics and reporting.
+
+In addition, I have experience with Python applied to Data Science, using pandas, NumPy, scikit-learn, and data visualization libraries.
 
 ## Machine learning
 
