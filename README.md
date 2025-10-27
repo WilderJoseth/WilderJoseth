@@ -11,14 +11,11 @@ I am a system engineer interested in software development, data science and mach
 
 * [Docker deployments](https://github.com/WilderJoseth/ml_docker)
 
-## Data processing
+## Data engineering projects
 
-* [Data processing](https://github.com/WilderJoseth/data_processing)
+* [Data engineering projects](https://github.com/WilderJoseth/data-engineering-projects)
 
 ## Reporting
 
 * [Data visualization](https://github.com/WilderJoseth/data_visualization)
 
-## Databricks
-
-* [Databricks](https://github.com/WilderJoseth/databricks)
